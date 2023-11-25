@@ -112,6 +112,6 @@ Através de um método simples e eficiente, buscamos uma vida mais saudável par
 
 ___
 ### Links
-  [Link para o vídeo explicativo do projeto no Youtube]([https://drive.google.com/file/d/1JKsdRvCdB2q_VMbhZHf62jj5Rhz8u8Bt/view?usp=sharing](https://youtu.be/Z2FukO58Kek))
+  [Link para o vídeo explicativo do projeto no Youtube](https://youtu.be/Z2FukO58Kek)
   
   [Link para projeto completo do sistema no Wokwi](https://wokwi.com/projects/381966954468037633)
